@@ -1,4 +1,4 @@
-# Hi 👋, I'm Tanish Shah
+# Hi, I'm Tanish Shah
 
 ### 🤖 AI/ML Engineer | 🌐 Full Stack Developer
 
