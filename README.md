@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./assets/banner.png" width="100%">
+</p>
+
+# Hi, I'm Tanish Shah
 # Hi, I'm Tanish Shah
 
 ### 🤖 AI/ML Engineer | 🌐 Full Stack Developer
