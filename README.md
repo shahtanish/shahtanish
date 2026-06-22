@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" width="100%">
+  <img src="./asset/banner.png" width="100%">
 </p>
 
 # Hi, I'm Tanish Shah
