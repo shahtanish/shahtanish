@@ -76,22 +76,21 @@
 
 ## 📌 Featured Projects
 
-### 📊 Employee Attrition Prediction
+### 📊 [Employee Attrition Prediction](https://github.com/shahtanish/employee-attrition)
 
 Machine Learning-based system for predicting employee attrition using workforce analytics and predictive modeling techniques.
 
-### 👁️ BilateralFusionNet
+### 👁️ [BilateralFusionNet](https://github.com/shahtanish/BilateralFusionNet)
 
 A Multimodal Deep Learning Framework for Multi-Label Ocular Disease Classification Using Fundus Images and Patient Metadata with Explainable AI.
 
-### 🍔 Byte2Bite
+### 🫁 [PulmoScan AI](https://github.com/shahtanish/PulmoScan-AI)
+
+AI-powered pulmonary disease detection system using medical imaging and deep learning techniques.
+
+### 🍔 [Byte2Bite](https://github.com/shahtanish/BYTE2BITE)
 
 A Multi-Vendor Food Ordering Platform featuring restaurant management, order tracking, and seamless user experience.
-
-### 🚀 DevFlow AI
-
-An AI-Powered Software Engineering Assistant that automates code reviews, test generation, issue tracking, and development workflows.
-
 ---
 
 ## 📫 Connect With Me
