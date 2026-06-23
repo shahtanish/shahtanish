@@ -89,8 +89,8 @@ A Multimodal Deep Learning Framework for Multi-Label Ocular Disease Classificati
 AI-powered pulmonary disease detection system using medical imaging and deep learning techniques.
 
 ### 🍔 [Byte2Bite](https://github.com/shahtanish/BYTE2BITE)
-
 A Multi-Vendor Food Ordering Platform featuring restaurant management, order tracking, and seamless user experience.
+
 ---
 
 ## 📫 Connect With Me
